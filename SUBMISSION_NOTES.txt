@@ -1,0 +1,9 @@
+My answer comprises the Ruby script collate.rb and the output file output.json.
+The script is compatible with Ruby 2.0.0 and ought to work just as well with
+later versions. It can be run from within the san/ directory as follows:
+
+  ruby collate.rb
+
+I decided not to de-duplicate identical results since I was not sure if these
+were actually duplicates, or simply replications of the same test on the same
+sample.
